@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 💻 Projeto
+Implementação de um sistema que gera relatórios com base em informações presentes em um arquivo CSV e salva em um arquivo de formato TXT. Além disso, foi implementada uma classe com métodos que permitem fazer o controle de estoque.
+# 🚀 Tecnologias
+Este projeto foi desenvolvido com as seguintes tecnologias:
+Python
+# 📌 Habilidades
+Neste projeto, desenvolvi as seguintes habilidades:
+Trabalhar com Hashmap e Dict;
+Trabalhar com Set.
